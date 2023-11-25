@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RJ ZIM
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Web and App Development
+- 🌱 I’m currently working laravel
 - 💞️ I’m looking to collaborate on New Features
 - 📫 How to reach me rjzim01@gmail.com
 
