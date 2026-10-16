@@ -19,39 +19,13 @@
 
 ## 🧑‍💻 About Me
 
-```php
-<?php
+I'm a **Software Engineer** from **Dhaka, Bangladesh 🇧🇩**, studied at **Daffodil International University**. I build reliable web, mobile and AI-powered software, and I pick the language that fits the problem.
 
-namespace App\Models;
-
-class SoftwareEngineer extends Human
-{
-    protected string $name     = 'RJ ZIM';
-    protected string $role     = 'Software Engineer';
-    protected string $location = 'Dhaka, Bangladesh 🇧🇩';
-    protected string $studied  = 'Daffodil International University';
-
-    public function currentlyBuilding(): array
-    {
-        return ['ERP & business software', 'AI agents & RAG apps', 'DevOps tooling'];
-    }
-
-    public function languages(): array
-    {
-        return ['Go', 'Java', 'Python', 'PHP', 'Kotlin', 'TypeScript'];
-    }
-
-    public function askMeAbout(): array
-    {
-        return ['Laravel', 'Django', 'Vue 3', 'React', 'Android', 'LLMs'];
-    }
-
-    public function funFact(): string
-    {
-        return 'I pick the language that fits the problem, not the other way around.';
-    }
-}
-```
+- 🔭 Currently building **ERP & business software**, **AI agents & RAG apps** and **DevOps tooling**
+- 💻 Languages I work with: **Go, Java, Python, PHP, Kotlin, TypeScript**
+- 🧩 Frameworks I use: **Laravel, Django, Vue 3, React, Android**
+- 🌱 Exploring **LLMs, AI agents and server automation**
+- 📫 Reach me at **[rjzim01@gmail.com](mailto:rjzim01@gmail.com)** or visit **[rjzim.web.app](https://rjzim.web.app)**
 
 ## 🛠️ Tech Stack
 
