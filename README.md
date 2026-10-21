@@ -67,7 +67,7 @@ I'm a **Software Engineer** from **Dhaka, Bangladesh 🇧🇩**, studied at **Da
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjzim01&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjzim01&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjzim01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20" alt="Top languages" />
 </p>
 
