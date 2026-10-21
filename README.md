@@ -67,12 +67,12 @@ I'm a **Software Engineer** from **Dhaka, Bangladesh 🇧🇩**, studied at **Da
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjzim01&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rjzim01&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20&icon_color=FF2D20&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjzim01&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=FF2D20" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rjzim01&hide_border=true&theme=tokyonight&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=rjzim01&timezone=Asia/Dhaka&hide_border=true&theme=tokyonight&background=0d1117&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub streak" />
 </p>
 
 ## 🐍 Contribution Snake
